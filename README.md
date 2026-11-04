@@ -1,4 +1,8 @@
-pluto_t6_fuII_game.torrent: https://github.com/LTDA-lab/pluto_t6_fuII_game/archive/refs/heads/main.zip
+pluto_t6_fuII_game (torrent): https://github.com/LTDA-lab/pluto_t6_fuII_game/archive/refs/heads/main.zip
+
+pluto_t6_fuII_game (google drive):
+https://drive.usercontent.google.com/download?id=1VZs969eeqghGoYqloNMM6VtCmM6H1LUW&export=download&authuser=0
+
 
 download cliet Bittorrent here: https://www.qbittorrent.org/download                                          
 
