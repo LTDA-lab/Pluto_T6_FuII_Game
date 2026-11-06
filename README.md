@@ -1,13 +1,19 @@
-pluto_t6_fuII_game (torrent): https://github.com/LTDA-lab/pluto_t6_fuII_game/archive/refs/heads/main.zip
+Pluto T6 Full Game
 
-pluto_t6_fuII_game (google drive):
-https://drive.usercontent.google.com/download?id=1VZs969eeqghGoYqloNMM6VtCmM6H1LUW&export=download&authuser=0
+Call of Duty: Black Ops II – Plutonium T6
 
+A convenient download repository providing the full game files required to get started with Call of Duty: Black Ops II on Plutonium.
 
-Cliet Bittorrent: https://www.qbittorrent.org/download                                          
+- Full game files available for download.
+- Torrent and Google Drive download options.
+- Installation guide for Plutonium T6.
+- Quick access to multiplayer server listings.
 
-                                                     
-install bo2 Plutonium: https://plutonium.pw/docs/install/#t6
+Useful Links
 
+- Download via Google Drive: "Download" (https://drive.usercontent.google.com/download?id=1VZs969eeqghGoYqloNMM6VtCmM6H1LUW&export=download&authuser=0)
+- Download via Torrent: "GitHub" (https://github.com/LTDA-lab/Pluto_T6_FuII_Game)
+- Plutonium Installation Guide: "Installation Guide" (https://plutonium.pw/docs/install/#t6)
+- Find Multiplayer Servers: "CoDServers" (https://codservers.pages.dev/)
 
-list of servers: https://codservers.pages.dev/ 
+Download. Install. Connect. Play.
