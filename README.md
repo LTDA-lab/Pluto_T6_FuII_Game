@@ -10,10 +10,13 @@ A convenient download repository providing the full game files required to get s
 - Quick access to multiplayer server listings.
 
 
-Useful Links
+## Useful Links
 
-- Download via Google Drive: "https://drive.usercontent.google.com/download?id=1VZs969eeqghGoYqloNMM6VtCmM6H1LUW&export=download&authuser=0" (https://drive.usercontent.google.com/download?id=1VZs969eeqghGoYqloNMM6VtCmM6H1LUW&export=download&authuser=0)
-- Download via Torrent: "https://github.com/LTDA-lab/Pluto_T6_FuII_Game" (https://github.com/LTDA-lab/Pluto_T6_FuII_Game)
-- Plutonium Installation Guide: "https://plutonium.pw/docs/install/#t6" (https://plutonium.pw/docs/install/#t6)
-- Find Multiplayer Servers: "https://codservers.pages.dev/" (https://codservers.pages.dev/)
+- [Download via Google Drive](https://drive.usercontent.google.com/download?id=1VZs969eeqghGoYqloNMM6VtCmM6H1LUW&export=download&authuser=0)
+- [Download via Torrent](https://github.com/LTDA-lab/Pluto_T6_FuII_Game)
+- [Plutonium Installation Guide](https://plutonium.pw/docs/install/#t6)
+- [Find Multiplayer Servers - CoDServers](https://codservers.pages.dev/)
+----
 Download. Install. Connect. Play.
+
+Maintained by LTDA-lab.
